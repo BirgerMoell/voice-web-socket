@@ -12,3 +12,9 @@ cd server
 npm install
 node index.js
 ```
+
+## Running python Server
+```bash
+cd server
+python server.py
+```
